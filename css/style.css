@@ -1,0 +1,31 @@
+.article-headline {
+    height: max-content;
+    color: #ffffff;
+    vertical-align: bottom;
+}
+
+#article-headline-1 {
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.26), rgba(117, 19, 93, 0.74)), url("../images/topic-1.jpg");
+    background-size: cover;
+}
+
+.article-headline-text-part {
+    height: max-content;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.headline {
+    padding-top: 30vw;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 0.9;
+    
+}
+
+.sub-headline {
+    padding-top: 1vw;
+    padding-bottom: 2.5vw;
+    font-size: 1.2rem;
+    
+}
