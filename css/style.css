@@ -2,6 +2,7 @@
     height: max-content;
     color: #ffffff;
     vertical-align: bottom;
+    margin-bottom: 5vw;
 }
 
 #article-headline-1 {
@@ -28,4 +29,9 @@
     padding-bottom: 2.5vw;
     font-size: 1.2rem;
     
+}
+
+.content {
+    margin: 1em 20vw 1em 10vw;
+    font-size: 1.2rem;
 }
