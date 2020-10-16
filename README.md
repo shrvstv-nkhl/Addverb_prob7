@@ -1,3 +1,5 @@
+#Solution approach to stop spread of covid in Metro/Trains
+
 # Objective
 One of the most crowded places apart of the Metro coaches itself are the ticket counters and the gateways that let people enter.
 Therefore the approach is to introduce and implement contactless ticketing along with proper guidelines to be followed by the everyday traveller.
