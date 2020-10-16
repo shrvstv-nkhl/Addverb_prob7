@@ -7,11 +7,11 @@ Therefore the approach is to introduce and implement contactless ticketing along
 * MongoDB
 
 ##UI
-![Home]()
+![Home](https://github.com/KoolwalSankalp/Addverb_prob7/blob/main/screenshot/home.png)
 `Page 1 of 4
 
-![Guidelines]()
+![Guidelines](https://github.com/KoolwalSankalp/Addverb_prob7/blob/main/screenshot/guidelines.png)
 `Page 2 of 4
 
-![Ticket]()
+![Ticket](https://github.com/KoolwalSankalp/Addverb_prob7/blob/main/screenshot/ticket.png)
 `Page 3 of 4
