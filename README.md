@@ -1,4 +1,4 @@
-#Solution approach to stop spread of covid in Metro/Trains
+# Solution approach to stop spread of covid in Metro/Trains
 
 # Objective
 One of the most crowded places apart of the Metro coaches itself are the ticket counters and the gateways that let people enter.
