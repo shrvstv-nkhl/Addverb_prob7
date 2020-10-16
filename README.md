@@ -8,7 +8,7 @@ Therefore the approach is to introduce and implement contactless ticketing along
 * HTML5, CSS, Node.js
 * MongoDB
 
-##UI
+## UI
 ![Home](https://github.com/KoolwalSankalp/Addverb_prob7/blob/main/screenshot/home.png)
 `Page 1 of 4
 
